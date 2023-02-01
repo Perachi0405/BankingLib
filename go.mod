@@ -1,4 +1,4 @@
-module BankingLib
+module Perachi/BankingLib
 
 go 1.19
 
