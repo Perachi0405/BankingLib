@@ -23,6 +23,7 @@ func init() { //used for initialization the logger
 	}
 }
 
+//commit check
 //helper function to customise
 func Info(message string, fields ...zap.Field) {
 	Log.Info(message, fields...) // passing the message and fields inside the logger package.
