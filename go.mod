@@ -1,4 +1,4 @@
-module github.com/Perachi0405/Bankinglib
+module Bankinglib
 
 go 1.19
 
