@@ -1,4 +1,4 @@
-module github.com/Perachi0405/Bankinglib
+module github.com/Perachi0405/banking-logger
 
 go 1.19
 
